@@ -265,7 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Email**: na.ahn@rwth-aachen.de
-- **Project Issues**: [GitHub Issues](https://github.com/yourusername/ANN_impact_source_localization/issues)
+- **Project Issues**: [GitHub Issues](https://github.com/nyahn01/ANN_impact_source_localization/issues)
 
 ---
 
