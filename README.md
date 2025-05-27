@@ -26,8 +26,8 @@ This project implements a sophisticated impact source localization system that p
 │   Data (4x100)  │───▶│   & Alignment    │───▶│   (FCN/CNN/RNN) │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                                                          │
-┌─────────────────┐    ┌──────────────────┐            │
-│   Impact        │◀───│   Coordinate     │◀───────────┘
+┌─────────────────┐    ┌──────────────────┐              │
+│   Impact        │◀───│   Coordinate     │◀─────────────┘
 │   Coordinates   │    │   Prediction     │
 └─────────────────┘    └──────────────────┘
 ```
