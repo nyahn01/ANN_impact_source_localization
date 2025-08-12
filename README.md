@@ -221,10 +221,6 @@ batch_predictions = model.predict(batch_sensor_data)
 - **Manufacturing**: Quality control in composite material production
 - **Research**: Non-destructive testing and material characterization
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Setup
 
 ```bash
@@ -239,34 +235,6 @@ black .
 flake8 .
 ```
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{impact_localization_2023,
-  title={Impact Source Localization using Artificial Neural Networks},
-  author={Your Name},
-  year={2023},
-  howpublished={\url{https://github.com/yourusername/ANN_impact_source_localization}}
-}
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Research team members and advisors
-- Data collection and experimental validation teams
-- Open source community for foundational tools
-
-## 📞 Contact
-
-- **Email**: na.ahn@rwth-aachen.de
-- **Project Issues**: [GitHub Issues](https://github.com/nyahn01/ANN_impact_source_localization/issues)
-
----
-
-⭐ **Star this repository if you find it helpful!**
